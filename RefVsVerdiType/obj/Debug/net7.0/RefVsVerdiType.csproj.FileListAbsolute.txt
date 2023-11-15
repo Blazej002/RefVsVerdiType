@@ -1,0 +1,15 @@
+C:\VsStudio\RefVsVerdiType\RefVsVerdiType\bin\Debug\net7.0\RefVsVerdiType.exe
+C:\VsStudio\RefVsVerdiType\RefVsVerdiType\bin\Debug\net7.0\RefVsVerdiType.deps.json
+C:\VsStudio\RefVsVerdiType\RefVsVerdiType\bin\Debug\net7.0\RefVsVerdiType.runtimeconfig.json
+C:\VsStudio\RefVsVerdiType\RefVsVerdiType\bin\Debug\net7.0\RefVsVerdiType.dll
+C:\VsStudio\RefVsVerdiType\RefVsVerdiType\bin\Debug\net7.0\RefVsVerdiType.pdb
+C:\VsStudio\RefVsVerdiType\RefVsVerdiType\obj\Debug\net7.0\RefVsVerdiType.csproj.AssemblyReference.cache
+C:\VsStudio\RefVsVerdiType\RefVsVerdiType\obj\Debug\net7.0\RefVsVerdiType.GeneratedMSBuildEditorConfig.editorconfig
+C:\VsStudio\RefVsVerdiType\RefVsVerdiType\obj\Debug\net7.0\RefVsVerdiType.AssemblyInfoInputs.cache
+C:\VsStudio\RefVsVerdiType\RefVsVerdiType\obj\Debug\net7.0\RefVsVerdiType.AssemblyInfo.cs
+C:\VsStudio\RefVsVerdiType\RefVsVerdiType\obj\Debug\net7.0\RefVsVerdiType.csproj.CoreCompileInputs.cache
+C:\VsStudio\RefVsVerdiType\RefVsVerdiType\obj\Debug\net7.0\RefVsVerdiType.dll
+C:\VsStudio\RefVsVerdiType\RefVsVerdiType\obj\Debug\net7.0\refint\RefVsVerdiType.dll
+C:\VsStudio\RefVsVerdiType\RefVsVerdiType\obj\Debug\net7.0\RefVsVerdiType.pdb
+C:\VsStudio\RefVsVerdiType\RefVsVerdiType\obj\Debug\net7.0\RefVsVerdiType.genruntimeconfig.cache
+C:\VsStudio\RefVsVerdiType\RefVsVerdiType\obj\Debug\net7.0\ref\RefVsVerdiType.dll
